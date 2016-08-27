@@ -1,0 +1,26 @@
+{
+  "name": "promise-fs",
+  "version": "1.0.0",
+  "description": "Promise based fs API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alun/promise-fs.git"
+  },
+  "keywords": [
+    "promise",
+    "fs"
+  ],
+  "author": "Aleksei Lunacharskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alun/promise-fs/issues"
+  },
+  "homepage": "https://github.com/alun/promise-fs#readme",
+  "dependencies": {
+    "promise-future": "git@github.com:alun/promise-future"
+  }
+}

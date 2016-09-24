@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/alun/promise-fs#readme",
   "dependencies": {
-    "promise-future": "git@github.com:alun/promise-future"
+    "promise-future": "https://github.com/alun/promise-future"
   }
 }
